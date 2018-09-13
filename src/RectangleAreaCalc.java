@@ -1,4 +1,9 @@
-
+/**
+ * 
+ * @author jgonsalves21
+ * Rectangle Area Calculator
+ * 
+ */
 public class RectangleAreaCalc {
 
 	public static void main(String[] args) {

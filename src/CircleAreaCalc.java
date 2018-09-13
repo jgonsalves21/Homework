@@ -1,4 +1,9 @@
-
+/**
+ * 
+ * @author jgonsalves21
+ * Circle Area Calculator
+ * 
+ */
 public class CircleAreaCalc {
 
 	public static void main(String[] args) {

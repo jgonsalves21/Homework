@@ -1,4 +1,9 @@
-
+/**
+ * 
+ * @author jgonsalves21
+ * Variable Homework
+ * 
+ */
 public class NameAndCalc {
 
 	public static void main(String[] args) {
@@ -9,15 +14,17 @@ public class NameAndCalc {
 		int radius = 5;
 		double pi = 3.14;
 		
-		System.out.print("Hello my name is ");
-		System.out.println(name);
+		System.out.print("Hello, my name is ");
+		System.out.print(name);
+		System.out.println(".");
 		
 		System.out.print("The area of the rectangle is ");
-		System.out.println(length*width);
+		System.out.print(length*width);
+		System.out.println(".");
 		
 		System.out.print("The area of the circle is ");
-		System.out.println(Math.pow(radius, 2)*pi);
-
+		System.out.print(Math.pow(radius, 2)*pi);
+		System.out.print(".");
 
 	}
 

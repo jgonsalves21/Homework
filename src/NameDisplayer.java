@@ -1,4 +1,9 @@
-
+/**
+ * 
+ * @author jgonsalves21
+ * Name Displayer
+ * 
+ */
 public class NameDisplayer {
 
 	public static void main(String[] args) {
